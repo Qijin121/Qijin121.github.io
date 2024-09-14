@@ -12,7 +12,7 @@ Songning Lai*, Tianlang Xue*, Hongru Xiao, Lijie Hu, Jiemin Wu, Ninghui Feng, Ru
 [![Website shields.io](https://img.shields.io/website?url=http%3A//poco.is.tue.mpg.de)](https://NA) [![YouTube Badge](https://img.shields.io/badge/YouTube-Watch-red?style=flat-square&logo=youtube)](https://NA)  [![arXiv](https://img.shields.io/badge/arXiv-2406.05036-00ff00.svg)](https://arxiv.org/2406.05036)  
 
 
-<img src="./logo.png" class="floatpic" width="345" height="450">
+<img src="./logo.png" class="floatpic" width="70" height="35">
 
 **I'll show you GIFs or videos here**
 

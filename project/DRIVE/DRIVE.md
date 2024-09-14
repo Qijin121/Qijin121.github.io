@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /project/drive/index.html
-title: drive
+permalink: /project/DRIVE/index.html
+title: DRIVE
 ---
 
 # <img src="./logo.png" class="floatpic" width="70" height="70"> DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving

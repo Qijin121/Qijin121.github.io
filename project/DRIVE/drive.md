@@ -1,15 +1,20 @@
 ---
 layout: page
-permalink: /blogs/2023.11.20,21/index.html
-title: 2023.11.20,21
+permalink: /blogs/drive/index.html
+title: drive
 ---
 
 
-# TimeSieve: Extracting Temporal Dynamics through Information Bottlenecks
+# DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving
 
 Songning Lai*, Tianlang Xue*, Hongru Xiao, Lijie Hu, Jiemin Wu, Ninghui Feng, Runwei Guan, Haicheng Liao, Zhenning Li, Yutao Yue†
 
 [![Website shields.io](https://img.shields.io/website?url=http%3A//poco.is.tue.mpg.de)](https://NA) [![YouTube Badge](https://img.shields.io/badge/YouTube-Watch-red?style=flat-square&logo=youtube)](https://NA)  [![arXiv](https://img.shields.io/badge/arXiv-2406.05036-00ff00.svg)](https://arxiv.org/2406.05036)  
+
+
+<img src="./logo.png" class="floatpic" width="345" height="450">
+
+**I'll show you GIFs or videos here**
 
 ## Abstract
 
@@ -51,9 +56,7 @@ These advancements lay the groundwork for the development of more reliable and t
   <img src="./framwork_all.png" alt="The Dependably Robust Interpretable Visionary Ensemble (DRIVE) model framework. The input is processed by a feature extractor and a temporal encoder, followed by a concept bottleneck with scenario encoding. The DRIVE model incorporates a multi-objective optimization process, balancing consistent interpretability (Ci), stable interpretability (Si), consistent output (Co), and stable output (So) through auxiliary loss functions. The model is trained using PGD to enhance robustness against perturbations while maintaining interpretability and predictive consistency.">
 </p>
 
-## Visualization
 
-**I'll show you GIFs or videos here**
 
 
 

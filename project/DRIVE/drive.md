@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/drive/index.html
+permalink: /project/drive/index.html
 title: drive
 ---
 

@@ -4,6 +4,9 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
+## <a href="{{ site.url }}/feed.xml">Projects</a>
+- [DRIVE](https://xll0328.github.io/project/drive)<br>
+
 ## <a href="{{ site.url }}/feed.xml">My Friends</a>
 
 [Xinmin Li](https://safori.github.io/Lixinming.github.io/)

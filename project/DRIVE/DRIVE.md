@@ -4,7 +4,7 @@ permalink: /project/DRIVE/index.html
 title: DRIVE
 ---
 
-# <img src="./logo.png" class="floatpic" width="70" height="70"> DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving
+## <img src="./logo.png" class="floatpic" width="70" height="70"> DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving
 
 #### Songning Lai~, Tianlang Xue~, Hongru Xiao, Lijie Hu, Jiemin Wu, Ninghui Feng, Runwei Guan, Haicheng Liao, Zhenning Li, Yutao Yue†
 
@@ -16,7 +16,7 @@ title: DRIVE
 
 **I'll show you GIFs or videos here**
 
-## Abstract
+### Abstract
 
 Recent advancements in autonomous driving have seen a paradigm shift towards end-to-end learning paradigms, which map sensory inputs directly to driving actions, thereby enhancing the robustness and adaptability of autonomous vehicles. However, these models often sacrifice interpretability, posing significant challenges to trust, safety, and regulatory compliance. To address these issues, we introduce **DRIVE** -- **D**ependable **R**obust **I**nterpretable **V**isionary **E**nsemble Framework in Autonomous Driving, a comprehensive framework designed to improve the dependability and stability of explanations in end-to-end unsupervised autonomous driving models.
 Our work specifically targets the inherent instability problems observed in the Driving through the Concept Gridlock (DCG) model, which undermine the trustworthiness of its explanations and decision-making processes. We define four key attributes of **DRIVE**: consistent interpretability, stable interpretability, consistent output, and stable output. These attributes collectively ensure that explanations remain reliable and robust across different scenarios and perturbations.
@@ -24,7 +24,7 @@ Through extensive empirical evaluations, we demonstrate the effectiveness of our
 These advancements lay the groundwork for the development of more reliable and trusted autonomous driving systems, paving the way for their broader acceptance and deployment in real-world applications.
 
 
-## Motivation
+### Motivation
 
 1. **Enhancing Public Trust**
    - Despite significant advancements in autonomous driving technology, public trust remains low due to concerns over loss of control and the lack of transparency in decision-making processes.
@@ -39,7 +39,7 @@ These advancements lay the groundwork for the development of more reliable and t
    - Meeting these legal requirements and ensuring that autonomous vehicles are dependable and interpretable is crucial for both regulatory compliance and fostering public acceptance.
 
 
-## Contributions
+### Contributions
 
 1. **In-depth Analysis of DCG Dependability**
    - We identify and analyze a significant dependability issue in generating textual descriptions from visual data due to alignment instability between text and images, providing insights into the challenges of creating reliable and interpretable autonomous driving systems.
@@ -50,7 +50,7 @@ These advancements lay the groundwork for the development of more reliable and t
 3. **Framework for Optimizing Dependability**
    - To address the fidelity issues identified in DCG, we propose a framework that optimizes parameters with minimal alteration, ensuring the integrity of pre-trained large model parameters while aligning with our definition of dependability. Empirical evaluations validate the effectiveness of this framework in improving the reliability and robustness of autonomous driving systems.
 
-## Framework
+### Framework
 
 <p align="center">
   <img src="./framwork_all.png" alt="The Dependably Robust Interpretable Visionary Ensemble (DRIVE) model framework. The input is processed by a feature extractor and a temporal encoder, followed by a concept bottleneck with scenario encoding. The DRIVE model incorporates a multi-objective optimization process, balancing consistent interpretability (Ci), stable interpretability (Si), consistent output (Co), and stable output (So) through auxiliary loss functions. The model is trained using PGD to enhance robustness against perturbations while maintaining interpretability and predictive consistency.">
@@ -60,7 +60,7 @@ These advancements lay the groundwork for the development of more reliable and t
 **Code release [here](https://xll0328.github.io/).**
 
 
-## Citing<a name="citing"></a>
+### Citing<a name="citing"></a>
 -->
 
 

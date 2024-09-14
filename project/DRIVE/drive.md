@@ -48,40 +48,20 @@ These advancements lay the groundwork for the development of more reliable and t
 ## Framework
 
 <p align="center">
-  <img src="./model.png" alt="Overview of the TimeSieve Framework. The upper part illustrates the overall architecture of TimeSieve, which consists of the Wavelet Decomposition Block (WDB), Wavelet Reconstruction Block (WRB), Information Fusion and Compression Block (IFCB), and the prediction. The input time series data, $T \times C$, is decomposed by WDB into coefficients $cA$ and $cD$, which are processed by IFCB. The WRB then reconstructs the data, followed by the predictor generating the corresponding forecast steps.">
+  <img src="./framework_all.png" alt="The Dependably Robust Interpretable Visionary Ensemble (DRIVE) model framework. The input is processed by a feature extractor and a temporal encoder, followed by a concept bottleneck with scenario encoding. The DRIVE model incorporates a multi-objective optimization process, balancing consistent interpretability (Ci), stable interpretability (Si), consistent output (Co), and stable output (So) through auxiliary loss functions. The model is trained using PGD to enhance robustness against perturbations while maintaining interpretability and predictive consistency.">
 </p>
 
+## Visualization
+
+**I'll show you GIFs or videos here**
 
 
-## Acknowledgements<a name="acknowledgements"></a>
 
-We appreciate helps from :
-
-- Open Source Code：[T2M-GPT](https://github.com/Mael-zys/T2M-GPT), [MoMask ](https://github.com/EricGuo5513/momask-codes), [MDM](https://guytevet.github.io/mdm-page/), etc.
-- [Hongru Xiao](https://github.com/Hongru0306), [Erhang Zhang](https://github.com/zhangerhang), [Lijie Hu](https://sites.google.com/view/lijiehu/homepage), [Lei Wang](https://leiwangr.github.io/), [Mengyuan Liu](), [Chen Chen](https://www.crcv.ucf.edu/chenchen/) for discussions and guidance throughout the project, which has been instrumental to our work.
-- [Zhen Zhao](https://github.com/Zanebla) for project website.
-- If you find our work helpful, we would appreciate it if you could give our project a star!
 ## Citing<a name="citing"></a>
 -->
 
 
 If you find this document useful for your research, please consider citing the following repository and paper:
 ```bibtex
-@misc{TimeSieve_repo,
-  author       = "{Ninghui Feng and Songning Lai and Zhenxiao Yin and Fobao Zhou and Hang Zhao}",
-  title        = "{TimeSieve: Extracting Temporal Dynamics through Information Bottlenecks}",
-  howpublished = "{GitHub repository}",
-  note         = "{URL: \url{https://github.com/xll0328/TimeSieve/}}",
-  year         = {2024},
-}
-
-@misc{feng2024timesieve,
-      title={TimeSieve: Extracting Temporal Dynamics through Information Bottlenecks}, 
-      author={Ninghui Feng and Songning Lai and Fobao Zhou and Zhenxiao Yin and Hang Zhao},
-      year={2024},
-      eprint={2406.05036},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
 ```
 

@@ -5,7 +5,7 @@ title: Blogs
 ---
 
 ## <a href="{{ site.url }}/feed.xml">Projects</a>
-- [DRIVE](https://xll0328.github.io/project/drive)<br>
+- [DRIVE](https://xll0328.github.io/project/DRIVE)<br>
 
 ## <a href="{{ site.url }}/feed.xml">My Friends</a>
 

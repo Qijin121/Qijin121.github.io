@@ -5,14 +5,16 @@ title: drive
 ---
 
 
+<center>
 # <img src="./logo.png" class="floatpic" width="70" height="70"> DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving
 
 Songning Lai*, Tianlang Xue*, Hongru Xiao, Lijie Hu, Jiemin Wu, Ninghui Feng, Runwei Guan, Haicheng Liao, Zhenning Li, Yutao Yue†
 
+HKUST(GZ), Tongji University, KAUST, University of Macau
+</center>
+
 [![Website shields.io](https://img.shields.io/website?url=http%3A//poco.is.tue.mpg.de)](https://NA) [![YouTube Badge](https://img.shields.io/badge/YouTube-Watch-red?style=flat-square&logo=youtube)](https://NA)  [![arXiv](https://img.shields.io/badge/arXiv-2406.05036-00ff00.svg)](https://arxiv.org/2406.05036)  
 
-
-<img src="./logo.png" class="floatpic" width="70" height="70">
 
 **I'll show you GIFs or videos here**
 

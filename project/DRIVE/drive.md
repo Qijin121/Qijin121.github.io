@@ -57,7 +57,7 @@ These advancements lay the groundwork for the development of more reliable and t
 </p>
 
 
-**Code release [here](https://xll0328.github.io/)**
+**Code release [here](https://xll0328.github.io/).**
 
 
 ## Citing<a name="citing"></a>

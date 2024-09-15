@@ -26,29 +26,22 @@ These advancements lay the groundwork for the development of more reliable and t
 
 ### Motivation
 
-1. **Enhancing Public Trust**
-   - Despite significant advancements in autonomous driving technology, public trust remains low due to concerns over loss of control and the lack of transparency in decision-making processes.
-   - Achieving widespread commercial adoption necessitates developing systems that users can understand and trust.
+- **Enhancing Public Trust**
 
-2. **Addressing Black Box Issues**
-   - Many current autonomous driving models, based on deep learning, function as black boxes, hindering interpretability and thus reducing confidence in their operations.
-   - Post-hoc explanations, while attempted, fail to provide real-time insights into the decision-making process, highlighting the need for anticipatory explanations.
+- **Addressing Black Box Issues**
 
-3. **Meeting Regulatory Requirements**
-   - Regulations such as the EU's GDPR emphasize the right to explanation, underscoring the importance of transparent autonomous systems.
-   - Meeting these legal requirements and ensuring that autonomous vehicles are dependable and interpretable is crucial for both regulatory compliance and fostering public acceptance.
-
+- **Meeting Regulatory Requirements**
 
 ### Contributions
 
-1. **In-depth Analysis of DCG Dependability**
-   - We identify and analyze a significant dependability issue in generating textual descriptions from visual data due to alignment instability between text and images, providing insights into the challenges of creating reliable and interpretable autonomous driving systems.
+- **In-depth Analysis of DCG Dependability**
+
    
-2. **Rigorous Definition and Properties of DRIVE**
-   - We formally define the concept of **DRIVE** (Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving) and outline its four fundamental properties—consistent and stable interpretability, along with consistent and stable output—offering a structured approach to evaluate and enhance the explainability of autonomous driving models.
+- **Rigorous Definition and Properties of DRIVE**
+
    
-3. **Framework for Optimizing Dependability**
-   - To address the fidelity issues identified in DCG, we propose a framework that optimizes parameters with minimal alteration, ensuring the integrity of pre-trained large model parameters while aligning with our definition of dependability. Empirical evaluations validate the effectiveness of this framework in improving the reliability and robustness of autonomous driving systems.
+- **Framework for Optimizing Dependability**
+
 
 ### Framework
 

@@ -14,7 +14,7 @@ HKUST(GZ), Tongji University, KAUST, University of Maca
 [![Website shields.io](https://img.shields.io/website?url=http%3A//poco.is.tue.mpg.de)](https://NA) [![YouTube Badge](https://img.shields.io/badge/YouTube-Watch-red?style=flat-square&logo=youtube)](https://NA)  [![arXiv](https://img.shields.io/badge/arXiv-0000.00000-00ff00.svg)](https://arxiv.org/0000.00000) 
 
 
-![DRIVE is all you need!](./MyVideo2_DRIVE.gif)
+![DRIVE is all you need!](./DRIVE_small.gif)
 
 ### Abstract
 
@@ -50,14 +50,14 @@ These advancements lay the groundwork for the development of more reliable and t
 </p>
 
 
-**Code release [here](https://xll0328.github.io/).**
+**Code release [here](https://github.com/xll0328/DRIVE/).**
 
 
 ### Citing<a name="citing"></a>
+
 -->
-
-
 If you find this document useful for your research, please consider citing the following repository and paper:
 ```bibtex
 ```
+-->
 

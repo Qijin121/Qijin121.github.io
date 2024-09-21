@@ -11,7 +11,7 @@ Songning Lai~, Tianlang Xue~, Hongru Xiao, Lijie Hu, Jiemin Wu, Ninghui Feng, Ru
 HKUST(GZ), Tongji University, KAUST, University of Maca
 
 
-[![Website shields.io](https://img.shields.io/website?url=http%3A//poco.is.tue.mpg.de)](https://NA) [![YouTube Badge](https://img.shields.io/badge/YouTube-Watch-red?style=flat-square&logo=youtube)](https://NA)  [![arXiv](https://img.shields.io/badge/arXiv-0000.00000-00ff00.svg)](https://arxiv.org/0000.00000) 
+[![Website shields.io](https://img.shields.io/website?url=http%3A//poco.is.tue.mpg.de)](https://xll0328.github.io/project/DRIVE/) [![YouTube Badge](https://img.shields.io/badge/YouTube-Watch-red?style=flat-square&logo=youtube)](https://NA)  [![arXiv](https://img.shields.io/badge/arXiv-2409.10330-00ff00.svg)](https://arxiv.org/abs/2409.10330) 
 
 
 ![DRIVE is all you need!](./DRIVE_small.gif)
@@ -49,15 +49,22 @@ These advancements lay the groundwork for the development of more reliable and t
   <img src="./framwork_all.png" alt="The Dependably Robust Interpretable Visionary Ensemble (DRIVE) model framework. The input is processed by a feature extractor and a temporal encoder, followed by a concept bottleneck with scenario encoding. The DRIVE model incorporates a multi-objective optimization process, balancing consistent interpretability (Ci), stable interpretability (Si), consistent output (Co), and stable output (So) through auxiliary loss functions. The model is trained using PGD to enhance robustness against perturbations while maintaining interpretability and predictive consistency.">
 </p>
 
+-----
+Code release [here](https://github.com/CNXTL/2024DRIVE/edit/main/README.md).!!!!!!!
+-----
 
-**Code release [here](https://github.com/xll0328/DRIVE/).**
+## Citing<a name="citing"></a>
 
-
-### Citing<a name="citing"></a>
-
--->
 If you find this document useful for your research, please consider citing the following repository and paper:
 ```bibtex
+@misc{lai2024drivedependablerobustinterpretable,
+      title={DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving}, 
+      author={Songning Lai and Tianlang Xue and Hongru Xiao and Lijie Hu and Jiemin Wu and Ninghui Feng and Runwei Guan and Haicheng Liao and Zhenning Li and Yutao Yue},
+      year={2024},
+      eprint={2409.10330},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2409.10330}, 
+}
 ```
--->
 

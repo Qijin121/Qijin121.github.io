@@ -43,22 +43,22 @@ The Conference on Neural Information Processing Systems (**NeurIPS 2024**).(CCF 
 
 ## Preprint
 
-[PEPL: Precision-Enhanced Pseudo-Labeling for Fine-Grained Image Classification in Semi-Supervised Learning](https://arxiv.org/pdf/2409.03192)
+- [PEPL: Precision-Enhanced Pseudo-Labeling for Fine-Grained Image Classification in Semi-Supervised Learning](https://arxiv.org/pdf/2409.03192)
 <br>Bowen Tian†, **Songning Lai†**, Lujundong Li, Zhihao Shuai, Runwei Guan, Tian Wu, Yutao Yue~<br>
 
-[DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving](https://arxiv.org/pdf/2409.10330)
+- [DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving](https://arxiv.org/pdf/2409.10330)
 <br>**Songning Lai†**, Tianlang Xue†, Hongru Xiao, Lijie Hu, Jiemin Wu, Ninghui Feng, Runwei Guan, Haicheng Liao, Zhenning Li, Yutao Yue~<br>
 
-[TimeSieve: Extracting Temporal Dynamics through Information Bottleneck](https://arxiv.org/pdf/2406.05036).[\[code\]](https://github.com/xll0328/TimeSieve)
+- [TimeSieve: Extracting Temporal Dynamics through Information Bottleneck](https://arxiv.org/pdf/2406.05036).[\[code\]](https://github.com/xll0328/TimeSieve)
 <br> Ninghui Feng†, **Songning Lai†**, Fobao Zhou, Zhenxiao Yin, Hang Zhao~<br>
 
-[FTS: A Framework to Find a Faithful TimeSieve](https://arxiv.org/pdf/2405.19647).
+- [FTS: A Framework to Find a Faithful TimeSieve](https://arxiv.org/pdf/2405.19647).
 <br> **Songning Lai†**, Ninghui Feng†, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Yang, Wenshuo Chen, Hang Zhao, Xuming Hu, Yutao Yue~<br>
 
-[CCSRP: Robust Pruning of Spiking Neural Networks through Cooperative Coevolution](https://arxiv.org/pdf/2408.00794).
+- [CCSRP: Robust Pruning of Spiking Neural Networks through Cooperative Coevolution](https://arxiv.org/pdf/2408.00794).
 <br> Zichen Song, Jiakang Li, Songning Lai, Sitan Huang~<br>
 
-[Case-based reasoning approach for diagnostic screening of children with developmental delays](https://arxiv.org/pdf/2408.02073).
+- [Case-based reasoning approach for diagnostic screening of children with developmental delays](https://arxiv.org/pdf/2408.02073).
 <br> Zichen Song, Jiakang Li, Songning Lai, Sitan Huang~<br>
 
 

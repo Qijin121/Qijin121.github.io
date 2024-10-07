@@ -22,12 +22,13 @@ My research interests are **Explainable AI (XAI)** and **Privacy-preserving AI**
 
 Prior to this, I have also been exposed to bioinformatics, multimodal sentiment analysis, domain generalization and other research areas.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *sonly[at]mail[dot]sdu[dot]edu[dot]cn*.
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *songninglai[at]hkust-gz[dot]edu[dot]cn*.
 
 ## Academic Background
 
-- **Feb 2025 - Future：** Hong Kong University of Science and Technology (Guangzhou) (Incoming AI Phd, supervised by [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue))
-- **Apr 2024 - Feb 2025:** HKUST(GZ) (RA)
+- **Feb 2025 - Future:** Hong Kong University of Science and Technology (Guangzhou) (Incoming AI Phd, supervised by [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue))
+- **Sep 2024 - Future:** University of Macau (RA)
+- **Apr 2024 - Feb 2025:** HKUST(GZ) (Intern)
 - **Apr 2023 - Mar 2024:** KAUST (Visiting Student)
 - **Sep 2020 - June 2024:** Shandong University (BSc, EECS)
 
@@ -35,15 +36,17 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Update
 
-- **July 2024 :** Our paper on Time Series was accepted by **IJCAI 2024 workshop**(CCF A).
-- **Jun 2024 :** Our paper on Community Detection was accepted by [Neurocomputing](https://arxiv.org/pdf/2309.11798)(JCR Q1; CCF C).
-- **Mar 2024 :**  I am awarded the honor of **excellent graduate of Shandong Province** and **excellent graduate of Shandong University**.
-- **Mar 2024 :** Our paper on MSA was accepted by [**IJCNN2024**](https://www.google.com/search?q=ijcnn2024&oq=IJCNN&gs_lcrp=EgZjaHJvbWUqBggCECMYJzIGCAAQRRg9MgYIARBFGDsyBggCECMYJzIGCAMQABgeMgYIBBBFGDsyBggFEAAYHjIGCAYQRRg9MgYIBxBFGDzSAQg0MzIyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)(CCF C).
-- **Jan 2024 :** Our paper on [faithful label free CBM](https://openreview.net/forum?id=rp0EdI8X4e) was accepted by [**ICLR 2024**](https://openreview.net/group?id=ICLR.cc/2024/Conference)(CCF None).
-- **Oct 2023 :** A work was accepted by the journal [**Displays**](https://www.sciencedirect.com/journal/displays) (JCR Q1).
-- **Oct 2023 :** A work was accepted by the journal [**Image and Vison Computing**](https://www.sciencedirect.com/journal/image-and-vision-computing) (JCR Q1; CCF C).
-- **Nov 2022 :** Get the **First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling National (top 0.6%).
-- **Nov 2022 :** I am very glad to give an **oral** report at the international conference [CISP-BMEI](http://www.cisp-bmei.cn/) 2022 and win the **Best Paper Award**.
+- **09.2024:** Our paper “Towards Multi-dimensional Explanation Alignment for Medical Classification” has been accepted at The Conference on Neural Information Processing Systems **(NeurIPS 2024)**!
+- **07.2024:** Our paper on Time Series has been accepted by **IJCAI 2024 workshop**(CCF A).
+- **06.2024:** Our paper on Community Detection has been accepted by [Neurocomputing](https://arxiv.org/pdf/2309.11798)(JCR Q1; CCF C).
+- **03.2024:** I am awarded the honor of **excellent graduate of Shandong Province** and **excellent graduate of Shandong University**.
+- **03.2024:** Our paper on Multimodal Sentiment Analysis has been accepted by [**IJCNN2024**](https://www.google.com/search?q=ijcnn2024&oq=IJCNN&gs_lcrp=EgZjaHJvbWUqBggCECMYJzIGCAAQRRg9MgYIARBFGDsyBggCECMYJzIGCAMQABgeMgYIBBBFGDsyBggFEAAYHjIGCAYQRRg9MgYIBxBFGDzSAQg0MzIyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)(CCF C).
+- **01.2024:** Our paper “Faithful Vision-Language Interpretation via Concept Bottleneck Models” has been accepted at The 12th International Conference on Learning Representations **(ICLR 2024)**!.
+- **10.2023:** Our paper on Multimodal Sentiment Analysis has been accepted by the journal [**Displays**](https://www.sciencedirect.com/journal/displays) (JCR Q1).
+- **10.2023:** Our paper on Computer Vison has been accepted by the journal [**Image and Vison Computing**](https://www.sciencedirect.com/journal/image-and-vision-computing) (JCR Q1; CCF C).
+- **11.2022:** Get the **First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling National (top 0.6%).
+- **11.2022:** I am very glad to give an **oral** report at the international conference [CISP-BMEI](http://www.cisp-bmei.cn/) 2022 and win the **Best Paper Award**.
+- **10.2022:** Our paper on Bioinformation has been accepted by CISP-BMEI 2022 (Tsinghua B)
 
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?sony0328"

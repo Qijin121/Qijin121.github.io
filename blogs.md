@@ -9,19 +9,16 @@ title: Blogs
 
 ## <a href="{{ site.url }}/feed.xml">My Friends</a>
 
-[Xinmin Li](https://safori.github.io/Lixinming.github.io/)
 
-[Lijie Hu](https://sites.google.com/view/lijiehu/homepage)
+- [Xinmin Li](https://safori.github.io/Lixinming.github.io/)
 
-[Shaopeng Fu](https://shaopengfu.me/)
+- [Lijie Hu](https://sites.google.com/view/lijiehu/homepage)
 
-[Hanlin Cai](https://caihanlin.com/)
+- [Hanlin Cai](https://caihanlin.com/)
 
-[Weilin Ruan](https://rwlinno.github.io/)
+- [Weilin Ruan](https://rwlinno.github.io/)
 
-[Zhiyuan Zou](https://yiyiyuan0225.github.io/)
 
-[LUYANGYU TONG](https://supergrapee.github.io/)
 
 
 

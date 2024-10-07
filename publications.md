@@ -6,13 +6,17 @@ title: Publications
 
 # Publications
 
-Lastest Update: 15th Aug 2024.
+Lastest Update: 15.10.2024.
 
 
 (**†** equal contribution, **~** corresponding author,)
 
 
 ## Conference Paper
+- Towards Multi-dimensional Explanation Alignment for Medical Classification
+<br> Lijie Hu†, **Songning Lai†**, Wenshuo Chen†, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang~<br>
+The Conference on Neural Information Processing Systems (**NeurIPS 2024**).(CCF A)
+
 - [Faithful Vision-Language Interpretation via Concept Bottleneck Models](https://openreview.net/forum?id=rp0EdI8X4e)
 <br>**Songning Lai†**, Lijie Hu~†, Junxiao Wang, Laure Berti and Di Wang~<br> **ICLR2024** (CCF None)
 
@@ -39,76 +43,28 @@ Lastest Update: 15th Aug 2024.
 
 ## Preprint
 
+[PEPL: Precision-Enhanced Pseudo-Labeling for Fine-Grained Image Classification in Semi-Supervised Learning](https://arxiv.org/pdf/2409.03192)
+<br>Bowen Tian†, **Songning Lai†**, Lujundong Li, Zhihao Shuai, Runwei Guan, Tian Wu, Yutao Yue~<br>
+
+[DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving](https://arxiv.org/pdf/2409.10330)
+<br>**Songning Lai†**, Tianlang Xue†, Hongru Xiao, Lijie Hu, Jiemin Wu, Ninghui Feng, Runwei Guan, Haicheng Liao, Zhenning Li, Yutao Yue~<br>
+
 [TimeSieve: Extracting Temporal Dynamics through Information Bottleneck](https://arxiv.org/pdf/2406.05036).[\[code\]](https://github.com/xll0328/TimeSieve)
-<br> Ninghui Feng†, **Songning Lai†**, Fobao Zhou, Zhenxiao Yin, Hang Zhao~
+<br> Ninghui Feng†, **Songning Lai†**, Fobao Zhou, Zhenxiao Yin, Hang Zhao~<br>
 
 [FTS: A Framework to Find a Faithful TimeSieve](https://arxiv.org/pdf/2405.19647).
-<br> **Songning Lai†**, Ninghui Feng†, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Yang, Wenshuo Chen, Hang Zhao, Xuming Hu, Yutao Yue~
+<br> **Songning Lai†**, Ninghui Feng†, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Yang, Wenshuo Chen, Hang Zhao, Xuming Hu, Yutao Yue~<br>
+
+[CCSRP: Robust Pruning of Spiking Neural Networks through Cooperative Coevolution](https://arxiv.org/pdf/2408.00794).
+<br> Zichen Song, Jiakang Li, Songning Lai, Sitan Huang~<br>
+
+[Case-based reasoning approach for diagnostic screening of children with developmental delays](https://arxiv.org/pdf/2408.02073).
+<br> Zichen Song, Jiakang Li, Songning Lai, Sitan Huang~<br>
 
 
 **If you want to collaborate on the project, please email me.**
 
 
 
-
-
-#  RESEARCH EXPERIENCES
-
-## Deep Interdisciplinary Intelligence Lab
-
-2024.4 --- Present
-
-RA, Advisor: Prof.Yutao Yue ----HKUST(GZ)@AI Thrust
-
-- XAI
-- LLM
-- VLM
-- AI4Science/XAI4Science
-
-## Privacy-Awareness, Responsibility and Trustworthy (PART) Lab
-
-2023.4 --- 2024.3
-
-Visting Student, Advisor: [Prof. Di Wang](https://cemse.kaust.edu.sa/cs/people/person/di-wang) ----KAUST
-
-- XAI
-- LLM
-
-## Shandong University Intelligent Medical Information Processing Research Center
-
-2022.8 --- 2023.4
-
-Research Intern, Advisor: [Zhi Liu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index/538797/list/index.htm) ---Shandong University
-
-- Bioinformatics
-- Multimodal
-- AI4Science
-
-  
-## Shandong University Signal Processing and Artificial Intelligence Research Institute
-
-2023.3 --- 2023.6
-
-Research Intern, Advisor: [Prof. Yang Yang](https://faculty.sdu.edu.cn/yangyang/zh_CN/index/11881/list/index.htm) ---Shandong University
-
-- Car detection
-
-## McMaster University
-
-2022.10 --- 2023.2
-
-Research Intern, Advisor: [Prof. Xiaolin Wu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index/538797/list/index.htm) ---McMaster University, Canada
-
-- Domain generalization
-- Computer Vison
-- OOD
-
-## Human-Machine Intelligence System Research Center
-
-2022.1 --- 2022.8
-
-Research Intern, Advisor: [Prof. Dong Xuan](https://web.cse.ohio-state.edu/~xuan.3/) ---Shandong University
-
-- Vision and robotic arm control
 
 

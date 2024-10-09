@@ -4,6 +4,17 @@ permalink: /awards/index.html
 title: Awards
 ---
 
+## Services
+
+- Reviewer:  ECAI2024, Expert Systems with Applications, IJCNN2024, ICML2024, KDD2024, ICLR2025, ICASSP2025, ICRA2025, AISTATS2025
+- Monitor of Chongxin College of Shandong University (The class was awarded as **Shandong Provincial Excellent Class** and **Shandong University Top Ten Class**)
+- Deputy Director of Student online Graphic Design Department of Shandong University
+- Head of Publicity Department of Beautiful China, Shandong University
+- Publicity Director, Oops Computer Community, Shandong University
+- Translator, International Affairs Office, Shandong University
+- Member of press corps of one or more colleges of Shandong University
+
+
 ## Awards & Honors
 
 ### National awards
@@ -35,15 +46,7 @@ title: Awards
 - Computer software copyright first copyright owner
 - Computer software copyright third copyright owner
 
-## Services
 
-- Reviewer:  ECAI, Expert Systems with Applications, IJCNN, ICML, KDD
-- Monitor of Chongxin College of Shandong University (The class was awarded as **Shandong Provincial Excellent Class** and **Shandong University Top Ten Class**)
-- Deputy Director of Student online Graphic Design Department of Shandong University
-- Head of Publicity Department of Beautiful China, Shandong University
-- Publicity Director, Oops Computer Community, Shandong University
-- Translator, International Affairs Office, Shandong University
-- Member of press corps of one or more colleges of Shandong University
 
 ## Voluntary
 

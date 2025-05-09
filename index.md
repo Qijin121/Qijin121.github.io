@@ -25,11 +25,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Feb 2025 - Future:** Hong Kong University of Science and Technology (Guangzhou) (Incoming AI Phd, supervised by [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue))
-- **Sep 2024 - Future:** University of Macau (RA)
-- **Apr 2024 - Feb 2025:** HKUST(GZ) (Intern)
-- **Apr 2023 - Mar 2024:** KAUST (Visiting Student)
-- **Sep 2020 - June 2024:** Shandong University (BSc, EECS)
+- **Apr 2024 - Present:** WLU (Visiting Student)
+- **Sep 2021 - Present:** Shandong University (BSc, EECS)
 
 
 

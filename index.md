@@ -18,11 +18,10 @@ I am a junior student studying in the School of Information Science and Engineer
 
 ## Research Interests
 
-My research interests are **Explainable AI (XAI)** and **Privacy-preserving AI**. Specifically, my research goal is to build faithful XAI systems which are easily understood by users and are robust in various environments (e.g. **XAI4LLM, XAI4NLP, XAI4MM, XAI4CV, XAI4Security** and so on). I am also interested in applying the XAI to real-world scenarios (e.g. optical systems, recommender systems, and traffic forecasting etc.). At the same time, I am also very interested in the research of AI in the field of **astronomy, environmental science, materials and medicine**.
+My research interests are primarily in the fields of **multi-systems robot**, **UAV state estimation** and **statistical signal processing**. Specifically, my research goal is to develop near-infrared-based distributed multi-robot systems which are low-cost and stable in various environments. I am also working on UAV state estimation by utilizing YOLO for detection and Kalman filtering algorithms to estimate the motion state of the target UAV and address noise issues. In addition, I have experience in multi-target tracking and domain adaptation in statistical signal processing.
+Prior to this, I have participated in a variety of competitions and projects, including the National University Students Intelligent Vehicle Competition, National College Student Electronic Design Competition, and Electronic Music Perpetual Calendar, which have given me hands-on experience in applying my skills to real-world scenarios.
 
-Prior to this, I have also been exposed to bioinformatics, multimodal sentiment analysis, domain generalization and other research areas.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *songninglai[at]hkust-gz[dot]edu[dot]cn*.
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *liqijin121[at]outlook[dot]com*.
 
 ## Academic Background
 

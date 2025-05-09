@@ -9,10 +9,7 @@ title: Awards
 <!-- - Reviewer:  ECAI2024, Expert Systems with Applications, IJCNN2024, ICML2024, KDD2024, ICLR2025, ICASSP2025, ICRA2025, AISTATS2025 -->
 <!-- - Monitor of Chongxin College of Shandong University (The class was awarded as **Shandong Provincial Excellent Class** and **Shandong University Top Ten Class**) -->
 - Vice President of the Outdoor Sports Association at Shandong University (Qingdao)
-- Captain of Shandong University “Liaowang Future” Teaching Volunteer TeamH
-<!-- - Publicity Director, Oops Computer Community, Shandong University
-- Translator, International Affairs Office, Shandong University
-- Member of press corps of one or more colleges of Shandong University -->
+- Captain of Shandong University “Liaowang Future” Teaching Volunteer TeamH  
 
 
 ## Awards & Honors
@@ -28,7 +25,7 @@ title: Awards
 - National College Student Electronic Design Competition (Shandong Division - First Prize)
 - Shandong Provincial College Robot Innovation Competition (Second Prize)
 
-### School award
+### School awards
 
 - Advanced Individual in Student Innovation and Entrepreneurship Activities at Shandong University
 - Special Talent Scholarship, Academic Scholarship, and several awards in sports and the arts.

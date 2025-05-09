@@ -29,7 +29,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sep 2021 - Present:** Shandong University (BSc, EECS)
 
 
-
+<!-- 
 ## News and Update
 
 - **09.2024:** Our paper “Towards Multi-dimensional Explanation Alignment for Medical Classification” has been accepted at The Conference on Neural Information Processing Systems **(NeurIPS 2024)**!
@@ -42,7 +42,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **10.2023:** Our paper on Computer Vison has been accepted by the journal [**Image and Vison Computing**](https://www.sciencedirect.com/journal/image-and-vision-computing) (JCR Q1; CCF C).
 - **11.2022:** Get the **First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling National (top 0.6%).
 - **11.2022:** I am very glad to give an **oral** report at the international conference [CISP-BMEI](http://www.cisp-bmei.cn/) 2022 and win the **Best Paper Award**.
-- **10.2022:** Our paper on Bioinformation has been accepted by CISP-BMEI 2022 (Tsinghua B)
+- **10.2022:** Our paper on Bioinformation has been accepted by CISP-BMEI 2022 (Tsinghua B) -->
 
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?sony0328"

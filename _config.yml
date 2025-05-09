@@ -7,7 +7,7 @@ url: https://qijin121.github.io/
 # Owner/author information
 owner:
   name: Qijin Li
-  avatar: hanlin.jpg
+
 #  bio:
   email: liqijin121@outlook.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -36,10 +36,10 @@ links:
     url: /
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  # - title: Hobbies
+  #   url: /hobbies/
+  # - title: Blogs
+  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

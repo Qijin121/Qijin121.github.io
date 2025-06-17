@@ -28,26 +28,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Apr 2024 - Present:** WLU (Visiting Student)
 - **Sep 2021 - Present:** Shandong University (BSc, EECS)
 
-<img src="./diansai.png" class="floatpic" width="345" height="450">
-<!-- 
-## News and Update
+<img src="./diansai.png" class="floatpic" width="1100" height="450" style="display: block; margin: auto;">
 
-- **09.2024:** Our paper “Towards Multi-dimensional Explanation Alignment for Medical Classification” has been accepted at The Conference on Neural Information Processing Systems **(NeurIPS 2024)**!
-- **07.2024:** Our paper on Time Series has been accepted by **IJCAI 2024 workshop**(CCF A).
-- **06.2024:** Our paper on Community Detection has been accepted by [Neurocomputing](https://arxiv.org/pdf/2309.11798)(JCR Q1; CCF C).
-- **03.2024:** I am awarded the honor of **excellent graduate of Shandong Province** and **excellent graduate of Shandong University**.
-- **03.2024:** Our paper on Multimodal Sentiment Analysis has been accepted by [**IJCNN2024**](https://www.google.com/search?q=ijcnn2024&oq=IJCNN&gs_lcrp=EgZjaHJvbWUqBggCECMYJzIGCAAQRRg9MgYIARBFGDsyBggCECMYJzIGCAMQABgeMgYIBBBFGDsyBggFEAAYHjIGCAYQRRg9MgYIBxBFGDzSAQg0MzIyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)(CCF C).
-- **01.2024:** Our paper “Faithful Vision-Language Interpretation via Concept Bottleneck Models” has been accepted at The 12th International Conference on Learning Representations **(ICLR 2024)**!.
-- **10.2023:** Our paper on Multimodal Sentiment Analysis has been accepted by the journal [**Displays**](https://www.sciencedirect.com/journal/displays) (JCR Q1).
-- **10.2023:** Our paper on Computer Vison has been accepted by the journal [**Image and Vison Computing**](https://www.sciencedirect.com/journal/image-and-vision-computing) (JCR Q1; CCF C).
-- **11.2022:** Get the **First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling National (top 0.6%).
-- **11.2022:** I am very glad to give an **oral** report at the international conference [CISP-BMEI](http://www.cisp-bmei.cn/) 2022 and win the **Best Paper Award**.
-- **10.2022:** Our paper on Bioinformation has been accepted by CISP-BMEI 2022 (Tsinghua B) -->
 
-<a href="https://www.easycounter.com/">
-<img src="https://www.easycounter.com/counter.php?sony0328"
-border="0" alt="Web Site Hit Counters"></a>
-<br><a href="https://www.easycounter.com/">Hit Counters  since Oct 2023</a>
 
 
 

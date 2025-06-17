@@ -28,7 +28,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Apr 2024 - Present:** WLU (Visiting Student)
 - **Sep 2021 - Present:** Shandong University (BSc, EECS)
 
-
+<img src="./diansai.png" class="floatpic" width="345" height="450">
 <!-- 
 ## News and Update
 

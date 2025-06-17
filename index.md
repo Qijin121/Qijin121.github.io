@@ -27,10 +27,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Apr 2024 - Present:** WLU (Visiting Student)
 - **Sep 2021 - Present:** Shandong University (BSc, EECS)
-
-<img src="./diansai.png" class="floatpic" width="1100" height="450" style="display: block; margin: auto;">
-
-
-
+<!-- <img src="./diansai.png" width="545" height="150" style="display: block; margin: auto;"> -->
+<img src="./diansai.png" width="1100" height="450" style="display: block; margin: auto;">
+<img src="./jiqiren.png"  width="1100" height="450" style="display: block; margin: auto;">
+<img src="./shuxuejianmo.png"  width="1100" height="450" style="display: block; margin: auto;">
+<img src="./zhinengche.png" width="1100" height="450" style="display: block; margin: auto;">
 
 

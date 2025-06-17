@@ -32,5 +32,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <img src="./jiqiren.png"  width="1100" height="450" style="display: block; margin: auto;">
 <img src="./shuxuejianmo.png"  width="1100" height="450" style="display: block; margin: auto;">
 <img src="./zhinengche.png" width="1100" height="450" style="display: block; margin: auto;">
+<img src="./mot.png" width="1100" height="450" style="display: block; margin: auto;">
+<img src="./uav.png" width="1100" height="450" style="display: block; margin: auto;">
+<img src="./distributed.png" width="1100" height="450" style="display: block; margin: auto;">
 
 
